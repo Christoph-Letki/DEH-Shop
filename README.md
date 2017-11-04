@@ -1,13 +1,5 @@
-# SMOK e-Zigaretten
-YEAR-MONTH-DAY-title.MARKUP
-
-# Nike AIR Max 2017
-
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/Christoph-Letki/DEH-Shop/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Wilkommen zu meiner Produktseite
+Es werden hier die verschiedene Artikel die ich verkaufe und auf nachfrage bestellen kann.
 
 ### Markdown
 
