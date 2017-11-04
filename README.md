@@ -1,4 +1,5 @@
 # SMOK e-Zigaretten
+YEAR-MONTH-DAY-title.MARKUP
 
 # Nike AIR Max 2017
 
